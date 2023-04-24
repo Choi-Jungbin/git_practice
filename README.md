@@ -8,11 +8,11 @@ See [Demo](https://www.google.com/)
 
 ### Installation
 
-'''shell
+' ''' '
 $ git clone {repo url}
 $ cd {reponame}
 $ pip install -r requirements.txt
-'''
+' ''' '
 
 ### How To Start
 
